@@ -1,0 +1,4 @@
+venv/
+ngrok.exe
+config/__pycache__/
+service/__pycache__/
